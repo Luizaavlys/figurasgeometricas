@@ -1,2 +1,2 @@
-# FiguraGeometrica
-trabalho N2
+# figurasgeometricas
+primeira questao de poo
